@@ -9,3 +9,4 @@ mkdir -p /tmp/my_first_directory/
 mv betty -T /tmp/my_first_directory
 cd -
 ln -s /bin/ls __ls__
+ls -la . .. /boot
