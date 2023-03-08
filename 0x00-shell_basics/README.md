@@ -6,4 +6,4 @@ ls -l 'Display current directory contents in a long format'
 ls -la
 la -na
 mkdir -p /tmp/my_first_directory/
-mv -t betty /tmp/my_first_directory
+mv betty -T /tmp/my_first_directory
