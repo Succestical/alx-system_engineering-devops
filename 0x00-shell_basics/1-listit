@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 1-listit 'Display the contents list of your current directory'
+ls 'Display the contents list of your current directory'
