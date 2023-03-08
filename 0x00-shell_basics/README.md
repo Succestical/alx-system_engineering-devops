@@ -11,3 +11,4 @@ cd -
 ln -s /bin/ls __ls__
 ls -la . .. /boot
 file /tmp/iamafile
+cp -u --recursive --no-clobber --update *.html ..
