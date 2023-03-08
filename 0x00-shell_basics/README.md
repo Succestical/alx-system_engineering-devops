@@ -5,3 +5,4 @@ ls 'Display the contents list of your current directory'
 ls -l 'Display current directory contents in a long format'
 ls -la
 la -na
+mkdir -p /tmp/my_first_directory/
