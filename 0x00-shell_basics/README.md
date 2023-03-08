@@ -13,4 +13,4 @@ ls -la . .. /boot
 file /tmp/iamafile
 cp -u --recursive --no-clobber --update *.html ..
 mv [[:upper]]* /tmp/u
-rm /tmp/betty
+rm -r /tmp/betty /tmp/my_first_directory
