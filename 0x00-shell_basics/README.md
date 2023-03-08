@@ -6,7 +6,7 @@ ls -l 'Display current directory contents in a long format'
 ls -la
 la -na
 mkdir -p /tmp/my_first_directory/
-mv betty -T /tmp/my_first_directory
+mv /tmp/betty  /tmp/my_first_directory
 cd -
 ln -s /bin/ls __ls__
 ls -la . .. /boot
