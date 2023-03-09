@@ -12,7 +12,7 @@ ln -s /bin/ls __ls__
 ls -la . .. /boot
 file /tmp/iamafile
 cp -u --recursive --no-clobber --update *.html ..
-mv [[:upper]]* /tmp/u
+mv [[:upper:]]* /tmp/u
 rm -r /tmp/betty /tmp/my_first_directory
 rm *~
 !: mime School
