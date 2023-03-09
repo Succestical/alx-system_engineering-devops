@@ -17,3 +17,4 @@ rm -r /tmp/tmp/my_first_directory/betty
 rm *~
 !: mime School
 ls xamp
+rmdir /tmp/my_first_directory
