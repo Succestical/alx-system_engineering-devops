@@ -14,3 +14,4 @@ file /tmp/iamafile
 cp -u --recursive --no-clobber --update *.html ..
 mv [[:upper]]* /tmp/u
 rm -r /tmp/betty /tmp/my_first_directory
+rm *~
