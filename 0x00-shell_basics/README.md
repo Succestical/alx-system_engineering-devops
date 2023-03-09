@@ -18,3 +18,4 @@ rm *~
 !: mime School
 ls xamp
 rmdir /tmp/my_first_directory
+mkdir -p welcome/to/school
