@@ -16,6 +16,6 @@ mv [[:upper:]]* /tmp/u
 rm -r /tmp/tmp/my_first_directory/betty
 rm *~
 !: mime School
-ls xamp
+ls -amvp
 rmdir /tmp/my_first_directory
 mkdir -p welcome/to/school
