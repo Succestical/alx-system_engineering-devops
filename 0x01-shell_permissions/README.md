@@ -1,2 +1,2 @@
 su 'switches the current user'
-id -n
+id -n -g
