@@ -16,3 +16,4 @@ mv [[:upper:]]* /tmp/u
 rm -r /tmp/betty /tmp/my_first_directory
 rm *~
 !: mime School
+ls xamp
